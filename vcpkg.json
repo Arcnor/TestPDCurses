@@ -1,0 +1,7 @@
+{
+	"name": "testpdcurses",
+	"version-date": "2023-06-17.2120",
+	"dependencies": [
+		"pdcurses"
+	]
+}
